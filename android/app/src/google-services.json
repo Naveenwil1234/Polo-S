@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381017905320",
+    "project_id": "polo-s",
+    "storage_bucket": "polo-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381017905320:android:441e78ccef24761324ca9d",
+        "android_client_info": {
+          "package_name": "com.polos.polos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381017905320-cgov4k3nd6jlp7bu47bnlcn69h18sfge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2x9DKKnjZIJHh6ovLqQYOdZXClN0NpTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381017905320-cgov4k3nd6jlp7bu47bnlcn69h18sfge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
