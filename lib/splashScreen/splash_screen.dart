@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:polo_s/assistants/assistant_methods.dart';
 import 'package:polo_s/global/global.dart';
 import 'package:polo_s/screens/login_screen.dart';
-import 'package:polo_s/screens/main_page.dart';
+import 'package:polo_s/screens/main_screen.dart';
 import 'package:polo_s/screens/register_screen.dart';
 
 class SplashScreen extends StatefulWidget {
