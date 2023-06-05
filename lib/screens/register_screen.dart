@@ -6,7 +6,7 @@ import 'package:polo_s/global/global.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:polo_s/screens/login_screen.dart';
-import 'package:polo_s/screens/main_screen.dart';
+import 'package:polo_s/screens/main_screen_user.dart';
 
 class RegisterScreen extends StatefulWidget {
   const RegisterScreen({Key? key}) : super(key: key);

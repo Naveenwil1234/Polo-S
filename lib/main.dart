@@ -1,7 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:polo_s/infoHandler/app_info.dart';
-import 'package:polo_s/screens/main_screen.dart';
+import 'package:polo_s/screens/login_screen.dart';
+import 'package:polo_s/screens/map_screen.dart';
 import 'package:polo_s/screens/register_screen.dart';
 import 'package:polo_s/themeProvider/theme_provider.dart';
 import 'package:provider/provider.dart';

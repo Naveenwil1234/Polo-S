@@ -2,11 +2,12 @@ import 'package:email_validator/email_validator.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:polo_s/screens/main_screen_user.dart';
 import 'package:polo_s/screens/register_screen.dart';
 
 import '../global/global.dart';
 import 'forgot_password_screen.dart';
-import 'main_screen.dart';
+//import 'map_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);

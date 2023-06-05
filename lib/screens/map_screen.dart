@@ -8,14 +8,14 @@ import 'package:polo_s/assistants/assistant_methods.dart';
 import 'package:polo_s/global/global.dart';
 import 'package:polo_s/global/map_key.dart';
 
-class MainScreen extends StatefulWidget {
-  const MainScreen({Key? key}) : super(key: key);
+class MapScreen extends StatefulWidget {
+  const MapScreen({Key? key}) : super(key: key);
 
   @override
-  State<MainScreen> createState() => _MainScreenState();
+  State<MapScreen> createState() => _MapScreenState();
 }
 
-class _MainScreenState extends State<MainScreen> {
+class _MapScreenState extends State<MapScreen> {
   LatLng? pickLocation;
   loc.Location location = loc.Location();
   String? _address;
